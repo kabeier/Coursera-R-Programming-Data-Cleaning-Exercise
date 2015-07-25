@@ -33,12 +33,13 @@ The following data labels are all written in this construct:
 
 >t/f Body/Gravity Acc/Gyro blank/Jerk .mean/.sd ...X/Y/Z
 
-**t/f* f says it was Fast Fourier Transform to receive the frequency domain, t is for regular time
-**Body/gravity* a Butterworth low-pass filters (.3Hz)reading into body acceleration and gravity denoted here
-**Acc/Gyro* from Accelerometer or Gyroscope
-**blank/jerk* denotes whether it is a jerk signal or not.
-**mean/sd* whether this is an estimated calculation of the mean or standard deviation
-**X/Y/Z* the dimension of the reading
+
+* **t/f** f says it was Fast Fourier Transform to receive the frequency domain, t is for regular time
+* **Body/gravity** a Butterworth low-pass filters (.3Hz)reading into body acceleration and gravity denoted here
+* **Acc/Gyro** from Accelerometer or Gyroscope
+* **blank/jerk** denotes whether it is a jerk signal or not.
+* **mean/sd** whether this is an estimated calculation of the mean or standard deviation
+* **X/Y/Z** the dimension of the reading
 
 
 ####Labels
