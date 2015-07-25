@@ -22,7 +22,7 @@ The final data table is outputted from R (in current wd) as *project3.txt* using
 
 
 ####The Data Variables:
-**Note:** All data variable correlate to the data variable from the original data, except for the special characters are all replaced with ".", Also the Subject and Activity Columns variable names are new to this script.
+**Note:** *All data variable correlate to the data variable from the original data, except for the special characters are all replaced with ".", Also the Subject and Activity Columns variable names are new to this script.*
 
 **"Subject"**  This is an ID representing the Subject that participate in the event.  Includes both the Train and the Test groups (without distinguishing this in the final output)
 
@@ -128,4 +128,3 @@ The following data labels are all written in this construct:
 **fBodyAccMag.std.."**
 **fBodyBodyAccJerkMag.std.."**
 **fBodyBodyGyroMag.std.."**
-
